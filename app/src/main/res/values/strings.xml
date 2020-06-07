@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">A Maze in Game</string>
+    <string name="playButton">Play</string>
+    <string name="rulesButton">Rules</string>
+    <string name="playerText">: This is you !</string>
+    <string name="friendText">: This is your friend.</string>
+    <string name="rulesText">Use your phone accelerometer to move and meet your friend. Avoid holes if you do not want to face a horrible death !</string>
+    <string name="gameFragmentTitle">VICTORY !</string>
+    <string name="gameFragmentPositiveButton">New</string>
+    <string name="gameFragmentNeutralButton">Quit</string>
+    <string name="gameFragmentNegativeButton">Retry</string>
+    <string name="gameFragmentText0">Without dying, like a pro !</string>
+    <string name="gameFragmentText1">You died only 1 time !</string>
+    <string name="gameFragmentTextMore">You died only %1$d times !</string>
+    <string name="mainActivityQuit">Press one more time to quit !</string>
+</resources>
